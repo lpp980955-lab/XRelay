@@ -1,0 +1,16 @@
+{
+  "cff-version": "1.2.0",
+  "message": "Please cite the actual XRelay version and release URL used in your work.",
+  "type": "software",
+  "title": "XRelay",
+  "version": "1.0.2",
+  "authors": [
+    {
+      "family-names": "Zhang",
+      "given-names": "Jiutian"
+    }
+  ],
+  "abstract": "Local visual SAXS/WAXS processing, multi-sample integration, recipe batches and figure export.",
+  "url": "https://github.com/lpp980955-lab/XRelay/releases/tag/v1.0.2",
+  "repository-code": "https://github.com/lpp980955-lab/XRelay"
+}

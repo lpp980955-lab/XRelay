@@ -1,0 +1,52 @@
+{
+  "schema": "colorcet_resource_manifest/1",
+  "source_wheel": "pyqtgraph-0.14.0-py3-none-any.whl",
+  "source_wheel_sha256": "7abb7c3e17362add64f8711b474dffac5e7b0e9245abdf992e9a44119b7aa4f5",
+  "license": "CC-BY-4.0",
+  "files": {
+    "CET-L3.csv": {
+      "bytes": 4608,
+      "sha256": "e5db155b5989874acc35cad37a4d06072719b5486d5901529db67a9b142518d4"
+    },
+    "CET-L8.csv": {
+      "bytes": 4608,
+      "sha256": "98ff1cc155267932a2cd296304dae352b0db1beccd368370a0353781c1647e6d"
+    },
+    "CET-L17.csv": {
+      "bytes": 4608,
+      "sha256": "8686a323768b9c4c61a36904d5aaae6e84ffd323644924f7322654f2b527cdc1"
+    },
+    "CET-D1.csv": {
+      "bytes": 4608,
+      "sha256": "6d9e95d519fbc38406a930200122cf6e9cf1ea13f87e2bc130c0d38eed860225"
+    },
+    "CET-D4.csv": {
+      "bytes": 4608,
+      "sha256": "78cf96e69a09fed564be0abe19b288dde03ec3a4d6410141dec70f86469445c8"
+    },
+    "CET-D8.csv": {
+      "bytes": 4608,
+      "sha256": "79c510dd16fd5c2190167b73201b27006acbe4e69eefc7b502549373c22c2314"
+    },
+    "CET-C1.csv": {
+      "bytes": 4608,
+      "sha256": "0cf833d685948beeb1fb8dc127168a52d0c7cb5d30fe498f8f56a9caf460ff84"
+    },
+    "CET-C2.csv": {
+      "bytes": 4608,
+      "sha256": "febf563069d6e4269cfede2dc0ecbeed98497d5f26e102b92bec5d9439df1bb9"
+    },
+    "CET-C6.csv": {
+      "bytes": 4608,
+      "sha256": "fdb70885bcc8118c6942b33d0ec48069c257f4dc3e86c0df08bd46a770c585d4"
+    },
+    "CET-I1.csv": {
+      "bytes": 4608,
+      "sha256": "18140fa089ffe5284d431db4197310048cbc058d7067d99f70b0aac92d3f5a0b"
+    },
+    "CC-BY license - applies to CET color map data.txt": {
+      "bytes": 14990,
+      "sha256": "c97deeeca4ae375a0334bc7f7af5f707aabfcec959c53c783b9f8771d28fd5b3"
+    }
+  }
+}

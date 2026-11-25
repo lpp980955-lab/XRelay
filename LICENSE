@@ -1,0 +1,44 @@
+XRelay 免费使用与再分发许可 1.0
+XRelay Free Use and Redistribution Licence 1.0
+标识 / Identifier: LicenseRef-XRelay-Free-Use-1.0
+Copyright © 2026 张久天 / Jiutian Zhang（笔名 / pen name）
+
+中文条款
+
+1. 适用范围
+本许可由以“张久天”（Jiutian Zhang）署名的权利人授予，仅覆盖其有权另行授权的XRelay原创代码、界面、文档及资源。不覆盖第三方库、代码、字体、参数资料、实验数据及其他独立素材；这些材料适用各自许可。本许可不撤销或追溯限制此前已合法授予的许可。
+
+2. 免费使用与修改
+允许个人、教育科研机构及企业免费复制、安装、运行和备份本许可覆盖的材料，用于研究、教学、内部研发及商业数据处理；允许为这些用途修改有权修改的原创部分。使用者可以交付或销售其依法拥有的数据、图像、分析报告和其他处理成果，不因使用XRelay而被要求支付软件使用费或公开实验数据。
+
+3. 免费分享
+允许免费分发合法获得的完整副本及修改版，须保留本许可、版权与第三方声明。修改版须清楚标注修改者及变更，不得冒充官方发行或虚构权利人背书。不得通过删除名称、版权或许可说明隐瞒原始来源。
+
+4. 改名、包装后销售
+未经权利人事先书面许可，不得通过改名、替换标识、重制安装包或其他重新包装方式，将本软件或保留其受保护原创部分的修改版本作为软件产品销售。此限制针对软件产品的改名包装销售，不禁止第2条允许的企业使用、商业数据处理或用户自身成果的销售，也不禁止未复制受保护表达的独立开发。
+本条不授权限制第三方组件依据其原许可证进行的独立使用、修改或分发。涉及组合产品且不能清楚区分软件销售与允许的服务时，应先向权利人确认授权范围，不将本许可解释为对软件使用的一般商业用途禁令。
+
+5. 第三方权利与库替换
+第三方组件的原许可优先适用于其各自材料。本许可不减少LGPL及其他适用许可授予的使用、复制、修改、分发、替换、重新链接及调试修改的权利，包括为调试对LGPL库的修改所必需的逆向工程。不得将第4条用于剥夺这些权利。本软件分发时须保留所需库源码、许可、声明及安装/替换说明；不得仅因用户依法修改或替换第三方库而撤销其这些权利。
+
+6. 保留权利与责任
+未明确授予的原创材料权利由相应权利人保留；法定例外及不得排除的权利不受限制。软件按现状提供，在适用法律允许范围内不作适销性、特定用途适用性或不侵权担保；不得排除的法定责任除外。用户应核对实验参数、数据完整性、模型和结果，不以成功执行替代科学验证。
+
+7. 联系与文本
+许可及授权联系通过正式项目GitHub Issues或权利人另行公布的渠道进行。正式授权合同须确认真实签约主体，不以笔名虚构公司或团体。以下英文为对应译文；存在解释差异时以中文条款为准，但不影响第三方许可原文的效力。
+
+English terms
+
+1. Scope. The rights holder using the pen name 张久天 / Jiutian Zhang grants this licence only for original XRelay code, interface, documentation and resources they are entitled to license. Third-party libraries, code, fonts, reference information, experimental data and independent assets retain their own licences. Prior lawful licence grants are not revoked or restricted retroactively.
+
+2. Free use and modification. Individuals, educational/research institutions and enterprises may copy, install, run and back up covered material without a licence fee for research, teaching, internal development and commercial data processing, and may modify eligible original material for those purposes. Users may deliver or sell data, figures, reports and other results they lawfully own, without having to publish their experimental data merely because they used XRelay.
+
+3. Free sharing. Lawfully obtained complete copies and modified versions may be distributed free of charge with this licence, copyright and third-party notices preserved. Modified versions must identify their modifier and changes, must not impersonate an official release or claim endorsement, and must not conceal the original source by deleting attribution or licence notices.
+
+4. Renamed or repackaged software sales. Without prior written permission, do not rename, replace branding, rebuild installers or otherwise repackage XRelay or modified versions retaining its protected original material for sale as software products. This restriction does not prohibit enterprise use, commercial data processing or sale of users' own results permitted by clause2, nor independent development that does not copy protected expression. It does not restrict independent third-party rights under their original licences. For combined products where software sales cannot clearly be distinguished from permitted services, confirm the licence scope with the rights holder; this is not a general ban on commercial use of the software.
+
+5. Third-party rights and replaceable libraries. Original third-party licences govern their respective material. This licence does not reduce rights to use, copy, modify, distribute, replace, relink or debug modifications under the LGPL or other applicable licences, including reverse engineering necessary to debug modifications to LGPL libraries. Clause4 must not be used to remove those rights. Distributions must preserve required library source, licences, notices and installation/replacement information. Lawful third-party library modification or replacement alone does not revoke those rights.
+
+6. Reserved rights and liability. Rights in original material not expressly granted are reserved; mandatory statutory rights and exceptions are unaffected. The software is supplied as-is without warranties of merchantability, fitness or non-infringement to the extent permitted by applicable law; non-excludable liability remains unaffected. Users must review experimental conditions, data integrity, models and results. Successful execution is not scientific validation.
+
+7. Contact and language. Enquiries use the official project's GitHub Issues or another channel designated by the rights holder. Formal agreements must identify a verifiable actual party; the pen name does not create a company or group. The Chinese terms control interpretation differences without altering authoritative third-party licence texts.

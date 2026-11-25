@@ -1,0 +1,301 @@
+{
+  "state": "retained_by_explicit_user_instruction",
+  "raw_datasets_included": false,
+  "independent_third_party_permission_verified": false,
+  "origins": [
+    "User-supplied reference library",
+    "Official pyFAI tutorial/testimage downloads requested by user"
+  ],
+  "assets": [
+    {
+      "file": "assets/agent-connect.gif",
+      "sha256": "8ac8fa9175de67493f1dc6c84219a479ed98959e6c237657a2b92b12a141f780",
+      "display_basis": "Original branding or configuration UI"
+    },
+    {
+      "file": "assets/agent-workflow-result.png",
+      "sha256": "e8be131b19a57b6f8091f4406483aee03070feedb2a7365b377db45eb52192d1",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/agent-workflow.gif",
+      "sha256": "1615c0170a4f8c2322cafcb4fc38a3981d316c673953b7c9fe52ca9adfc33180",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/batch-2d-export.gif",
+      "sha256": "7f58b915ba29c4d0ca0445ca58649790ec324f70e8d30ca0286d0227fa33666f",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/gallery/agb.png",
+      "sha256": "69079daba2f64bdb9169be2c5a00d181d8b964323cc96aee050eaabe70009b9a",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/gallery/agbh-public.png",
+      "sha256": "9b9404b2afcc9a743e83a3c408ceda457a5dcc45508f3e3e592eaa1e9cdb50c0",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/gallery/al2o3-public.png",
+      "sha256": "9dd8201cab72e18e0f97957d7fb68c5d7220a166d0d09e576dd5a8e98dd2caaf",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/gallery/bull-center.png",
+      "sha256": "c095a6f3c1e64a7bb9ae42bcd8670bab343c2d61564aafe367afa34b521f14f2",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/gallery/bull-offset.png",
+      "sha256": "eb1aa6330953688d5eec64383344e76fddab930eb341b5e5f98d8f82ddb26090",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/gallery/ceo2-18.png",
+      "sha256": "ece60e2b9da8a9961dee9b3c116fdbca02fa9b29bfc5255bdd9b554e7d07e4da",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/gallery/ceo2-20.png",
+      "sha256": "0e677c0e389f06cca194f8a7a0911eaa2813b44abd07e34895ae6b603a809059",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/gallery/ceo2-60.png",
+      "sha256": "7d9224a19751c5f190b4648f838d7e6852525c94a1015ab4667c83648ae7796f",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/gallery/lab6.png",
+      "sha256": "b16969ddfa8f1af154995f8b19685fbac08f35871768c27939232c376f11f007",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/gallery/manifest.json",
+      "sha256": "45b0bc7b94532973b61d58ee12e75abeaced9c7e9c293478703e0d43ba633fec",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/gallery/si.png",
+      "sha256": "b3435978df152bdfe3e84f6a17e02808c6bb11b2d54cd90dfddd6c7a3c2a2f12",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/gallery/silver.png",
+      "sha256": "3d54f5d482ebe6254c19331a263db4cdae83d9c61261e251ae2782531b30947b",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/gallery/y2o3.png",
+      "sha256": "4e826a1e236a48d06b0e41b11738a614e17fd97515d7a3c831a896e00b4f557a",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/geometry-preview-demo.gif",
+      "sha256": "4fe43e46bd5db5a940838d0f3cfa026ca71d8ac2d3f4f22523e8bdc79d5643ea",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/integration-full-sync.gif",
+      "sha256": "c9160307fc196257a17d544294cb2f838d2b5084be5e2fe03a895e0f4e660c9a",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/integration-opposite-sync.gif",
+      "sha256": "4f739b2bf6c8f630ca914b316a38e77075165d11c7164ae852b7d6b34f290deb",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/integration-single-sync.gif",
+      "sha256": "de7338fdf65aa1b401048d4330de45a96504f3296d806cfbe66336b68d5bd063",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/multi-image-drag.gif",
+      "sha256": "de7338fdf65aa1b401048d4330de45a96504f3296d806cfbe66336b68d5bd063",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/multi-image-updated.png",
+      "sha256": "97d745936dda3944beda5e13ddd0ccf70e0aba004f207d75459fe37b8f5449fd",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/multi-image-workbench.png",
+      "sha256": "c59a6753ee2f9333469d4aac955893ee35fbd647d1ea1eed5c0b29d51d86966a",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/processing-background.png",
+      "sha256": "9e94a2dd017e54dadf67012074a1a02a055355dab9a8a1c423027cc414b3200a",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/processing-fit.png",
+      "sha256": "43f5ed50177ef8f99d3733f30876d369f0e44bbf89abdc9d337d264da66b741c",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/processing-geometry.png",
+      "sha256": "d8280306f9c1f64b2792c4a384c25868277fa36b366828b7692590d87812546b",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/processing-integration.png",
+      "sha256": "f06fa73f2ccbb1800ba73d9f49870f571c2faa45c05d332ef17b5105269c9e59",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/processing-mask.png",
+      "sha256": "689567c829d5b43e07909649e82dd6fbe2a72404f7d817194be5a537bd24dfde",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/processing-panel-tour.gif",
+      "sha256": "a31db4da9cd29125c5cb4705addf33e4cf65db80e831274430c7555a6988f7e2",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/processing-recipe.png",
+      "sha256": "65b5b0e202b818468668a9651cb3d8222977cad9c45a154334b4b02fe674d560",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/saxs-azimuth-drag.gif",
+      "sha256": "262e1cb2efc3ad72a376c6da304ffba3650b2ef56c01d7da8dd7f89e419f914d",
+      "display_basis": "User-authorized anonymized research visualization; raw inputs excluded"
+    },
+    {
+      "file": "assets/saxs-azimuth.png",
+      "sha256": "791354248bbca4ca992d1b841db011707afe77cb1c6fef61bdc17160e064279f",
+      "display_basis": "User-authorized anonymized research visualization; raw inputs excluded"
+    },
+    {
+      "file": "assets/saxs-batch.gif",
+      "sha256": "ee9d8aa0ad35e5c0dc7184a4eaee9240e524216548c0f23c53a3278e960f450b",
+      "display_basis": "User-authorized anonymized research visualization; raw inputs excluded"
+    },
+    {
+      "file": "assets/saxs-batch.png",
+      "sha256": "13151ccb5a9f2935bb63f0416142ff882fae3d692e57c21a703cf8135fbfe088",
+      "display_basis": "User-authorized anonymized research visualization; raw inputs excluded"
+    },
+    {
+      "file": "assets/standard-auto-calibration.png",
+      "sha256": "6cff08f7d394b440437bb119b540edc8c1ba091f48ecf379075dfc966d1a47bf",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/standard-background.png",
+      "sha256": "22ce95f71dbf716d98fbe2a24d0a0e77a54c52da384301ec45d9c885f9de1d33",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/standard-ceo2.png",
+      "sha256": "27e83acc2c161440585b24c018df23c578036615bb0a4ec815dec85957b09547",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/standard-color-preview.gif",
+      "sha256": "97fd1d9d89a169791cc41ac41e2966931a5ff2866b179414ac40e421999897f6",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/standard-curve-export.png",
+      "sha256": "a9226bf6f2e4f0aa974410c3040026f8c8b159511f84019f7eec0d2bca5d5cf6",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/standard-curve-style.gif",
+      "sha256": "337e212eac31b8ac7e54a6097e5d8e213f450d020e01c2dbd468a0266764e31a",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/standard-fit-workspace.png",
+      "sha256": "517e523e1906896bb2ecb70c1edbbab32de38acad298612f4a0f09edc45ad093",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/standard-format-edit.gif",
+      "sha256": "b05f639e132d027b5512380d1c46e09a0e87c3d237509e31b02ec36d751112cb",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/standard-format-export.png",
+      "sha256": "073485eb72c0d468a040559e54592794cd541fa612c1d0816148bbab0d434966",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/standard-geometry-template.png",
+      "sha256": "c00c1a0e0b03c5851c847b0b9d7736e552d01c242e38fc21b0a5f2e1ea507499",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/standard-mask.png",
+      "sha256": "721d24f57d0c40f0cfbae41a7d5ba8fd60c033272d16bc2e3951e739836e23a1",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/standard-recipe.png",
+      "sha256": "ccb75dff6321a4c68755f33b3f78fb8aefad757a1ed98fa0da197797b38fc15b",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/standard-rings.png",
+      "sha256": "1c4d51515b2a773fc3569ac17b40782eb066012ad39d78dc70261b16831b62db",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/standard-saxs-120.png",
+      "sha256": "1b6396c92029a95fc1b7aac21472565dae0c015343ee452229679b7be4592e83",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/standard-saxs-30.png",
+      "sha256": "8fa26bda1ec969257d5a0012a51d202a3ea519fca7de1b52cc9f9ab3166c332b",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/standard-saxs-75.png",
+      "sha256": "4d246cb6d473cf846c4d23c52f581e9a3b6ecb66c6beb0e3fe2337e8c3154756",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/standard-saxs-azimuth.png",
+      "sha256": "142f854ddd33dc910a8f8d0e4e3ef81c73e705f09a94c9f96ba1b71f3baf42af",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/standard-saxs-regions.gif",
+      "sha256": "2ddf3e90713b010aa34defaca32deab312a49634c6fab361a131e87f462d1fd3",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/standard-waxs.png",
+      "sha256": "c4026b85868c04b2764bdca6de5da6ad4ac3c93d2e3f53e313e8cc99b1c7a7f5",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/waxs-azimuth-drag.gif",
+      "sha256": "f40ac6c9a507424e07ee86cb26fbde9f6557d4eb45d989700a6a52c0483c0474",
+      "display_basis": "User-authorized anonymized research visualization; raw inputs excluded"
+    },
+    {
+      "file": "assets/waxs-azimuth.png",
+      "sha256": "863d3a7cb4875c7ca0125fcff3a338d11fc29ebe26997b21d74ae3c9025569d9",
+      "display_basis": "User-authorized anonymized research visualization; raw inputs excluded"
+    },
+    {
+      "file": "assets/workbench-three-regions.png",
+      "sha256": "f135f62d04139558b92768e269e6fbfb8a396facd338d77aa92679d03a4cb527",
+      "display_basis": "Selected reference visualization retained at user instruction; supplied library and/or official pyFAI downloads; independent third-party written permission not verified"
+    },
+    {
+      "file": "assets/xrelay.svg",
+      "sha256": "c97facf06b5fc9c00ed6b5cc6733d59a55db13c30610dcd4bf1de567191efa0d",
+      "display_basis": "Original branding or configuration UI"
+    }
+  ]
+}
