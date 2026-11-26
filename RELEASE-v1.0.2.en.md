@@ -1,6 +1,6 @@
-# XRelay 1.0.2 — release preparation
+# XRelay 1.0.2
 
-**Not uploaded.** The new candidate is being built under the XRelay Free Use and Redistribution Licence1.0 for eligible original material. Third-party licences and earlier lawful grants remain unchanged. Final archives and hashes follow regression checks.
+Original material uses the XRelay Free Use and Redistribution Licence1.0. Third-party licences and earlier lawful grants remain unchanged. File sizes and hashes are listed in release.json and SHA256SUMS.txt.
 
 This first release will offer only the latest complete Windows x64 package, corresponding source materials and checksums. No previous binary or patch is offered. Updates remain manual.
 
