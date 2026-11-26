@@ -57,53 +57,27 @@ Geometry and processing preview — processing panel tour
 
 Built-in reference spacings and custom d-spacing imports help compare measured and theoretical rings. The gallery below keeps the selected reference patterns. File labels are not certificates of sample identity. Viridis/logarithmic display uses independent valid-pixel percentile limits; colours do not establish equal absolute intensity across samples. The user has confirmed retaining the selected visualizations; origins distinguish the supplied reference library from official public downloads. Raw datasets are not redistributed.
 
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agb.png" alt="Reference patterns: SAXS and WAXS — agb" width="300">
+### SAXS reference patterns
 
-agb
+<table>
+<tr><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agb.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agb.png" alt="Reference patterns: SAXS and WAXS — agb" width="360"></a><br><strong>agb</strong></td><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/silver.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/silver.png" alt="Reference patterns: SAXS and WAXS — silver" width="360"></a><br><strong>silver</strong></td><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agbh-public.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agbh-public.png" alt="Reference patterns: SAXS and WAXS — agbh public" width="360"></a><br><strong>agbh public</strong></td></tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/silver.png" alt="Reference patterns: SAXS and WAXS — silver" width="300">
+### WAXS reference patterns
 
-silver
+<table>
+<tr><td align="center" width="25%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-18.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-18.png" alt="Reference patterns: SAXS and WAXS — ceo2 18" width="360"></a><br><strong>ceo2 18</strong></td><td align="center" width="25%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-20.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-20.png" alt="Reference patterns: SAXS and WAXS — ceo2 20" width="360"></a><br><strong>ceo2 20</strong></td><td align="center" width="25%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-60.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-60.png" alt="Reference patterns: SAXS and WAXS — ceo2 60" width="360"></a><br><strong>ceo2 60</strong></td><td align="center" width="25%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/lab6.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/lab6.png" alt="Reference patterns: SAXS and WAXS — lab6" width="360"></a><br><strong>lab6</strong></td></tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agbh-public.png" alt="Reference patterns: SAXS and WAXS — agbh public" width="300">
+<table>
+<tr><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/si.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/si.png" alt="Reference patterns: SAXS and WAXS — si" width="360"></a><br><strong>si</strong></td><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/y2o3.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/y2o3.png" alt="Reference patterns: SAXS and WAXS — y2o3" width="360"></a><br><strong>y2o3</strong></td><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/al2o3-public.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/al2o3-public.png" alt="Reference patterns: SAXS and WAXS — al2o3 public" width="360"></a><br><strong>al2o3 public</strong></td></tr>
+</table>
 
-agbh public
+### Other reference patterns
 
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-18.png" alt="Reference patterns: SAXS and WAXS — ceo2 18" width="300">
-
-ceo2 18
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-20.png" alt="Reference patterns: SAXS and WAXS — ceo2 20" width="300">
-
-ceo2 20
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-60.png" alt="Reference patterns: SAXS and WAXS — ceo2 60" width="300">
-
-ceo2 60
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/lab6.png" alt="Reference patterns: SAXS and WAXS — lab6" width="300">
-
-lab6
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/si.png" alt="Reference patterns: SAXS and WAXS — si" width="300">
-
-si
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/y2o3.png" alt="Reference patterns: SAXS and WAXS — y2o3" width="300">
-
-y2o3
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/al2o3-public.png" alt="Reference patterns: SAXS and WAXS — al2o3 public" width="300">
-
-al2o3 public
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-center.png" alt="Reference patterns: SAXS and WAXS — bull center" width="300">
-
-bull center
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-offset.png" alt="Reference patterns: SAXS and WAXS — bull offset" width="300">
-
-bull offset
+<table>
+<tr><td align="center" width="50%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-center.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-center.png" alt="Reference patterns: SAXS and WAXS — bull center" width="360"></a><br><strong>bull center</strong></td><td align="center" width="50%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-offset.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-offset.png" alt="Reference patterns: SAXS and WAXS — bull offset" width="360"></a><br><strong>bull offset</strong></td></tr>
+</table>
 
 ## Background and MASK in the same workflow
 

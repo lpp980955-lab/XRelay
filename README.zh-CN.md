@@ -85,69 +85,25 @@ Al₂O₃、CeO₂ 分别使用各自配套的几何参数。拖动一个窗格�
 
 ### SAXS 标样
 
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agb.png" alt="AgB · 库中标样" width="300">
-
-**AgB · 库中标样** 
-指定标样库
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/silver.png" alt="Silver Behelate · 多级圆环" width="300">
-
-**Silver Behelate · 多级圆环** 
-指定标样库
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agbh-public.png" alt="AgBh · 官方公开标样" width="300">
-
-**AgBh · 官方公开标样** 
-pyFAI 官方公开数据
+<table>
+<tr><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agb.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agb.png" alt="AgB · 库中标样" width="360"></a><br><strong>AgB · 库中标样 指定标样库</strong></td><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/silver.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/silver.png" alt="Silver Behelate · 多级圆环" width="360"></a><br><strong>Silver Behelate · 多级圆环 指定标样库</strong></td><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agbh-public.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agbh-public.png" alt="AgBh · 官方公开标样" width="360"></a><br><strong>AgBh · 官方公开标样 pyFAI 官方公开数据</strong></td></tr>
+</table>
 
 ### WAXS 标样
 
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-18.png" alt="CeO₂ · 偏心多环" width="300">
+<table>
+<tr><td align="center" width="25%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-18.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-18.png" alt="CeO₂ · 偏心多环" width="360"></a><br><strong>CeO₂ · 偏心多环 指定标样库</strong></td><td align="center" width="25%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-20.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-20.png" alt="CeO₂ · 居中圆环" width="360"></a><br><strong>CeO₂ · 居中圆环 指定标样库</strong></td><td align="center" width="25%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-60.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-60.png" alt="CeO₂ · 长曝光图案" width="360"></a><br><strong>CeO₂ · 长曝光图案 指定标样库</strong></td><td align="center" width="25%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/lab6.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/lab6.png" alt="LaB₆ · 多级衍射环" width="360"></a><br><strong>LaB₆ · 多级衍射环 指定标样库</strong></td></tr>
+</table>
 
-**CeO₂ · 偏心多环** 
-指定标样库
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-20.png" alt="CeO₂ · 居中圆环" width="300">
-
-**CeO₂ · 居中圆环** 
-指定标样库
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-60.png" alt="CeO₂ · 长曝光图案" width="300">
-
-**CeO₂ · 长曝光图案** 
-指定标样库
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/lab6.png" alt="LaB₆ · 多级衍射环" width="300">
-
-**LaB₆ · 多级衍射环** 
-指定标样库
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/si.png" alt="Si · 库中标样" width="300">
-
-**Si · 库中标样** 
-指定标样库
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/y2o3.png" alt="Y₂O₃ · 库中标样" width="300">
-
-**Y₂O₃ · 库中标样** 
-指定标样库
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/al2o3-public.png" alt="α-Al₂O₃ · 官方公开标样" width="300">
-
-**α-Al₂O₃ · 官方公开标样** 
-pyFAI 官方公开数据
+<table>
+<tr><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/si.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/si.png" alt="Si · 库中标样" width="360"></a><br><strong>Si · 库中标样 指定标样库</strong></td><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/y2o3.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/y2o3.png" alt="Y₂O₃ · 库中标样" width="360"></a><br><strong>Y₂O₃ · 库中标样 指定标样库</strong></td><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/al2o3-public.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/al2o3-public.png" alt="α-Al₂O₃ · 官方公开标样" width="360"></a><br><strong>α-Al₂O₃ · 官方公开标样 pyFAI 官方公开数据</strong></td></tr>
+</table>
 
 ### 其他参考图案（物质身份待核）
 
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-center.png" alt="bull-20s_002 · 参考图案" width="300">
-
-**bull-20s_002 · 参考图案** 
-指定标样库
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-offset.png" alt="Bull-20s_025 · 偏心参考图案" width="300">
-
-**Bull-20s_025 · 偏心参考图案** 
-指定标样库
+<table>
+<tr><td align="center" width="50%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-center.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-center.png" alt="bull-20s_002 · 参考图案" width="360"></a><br><strong>bull-20s_002 · 参考图案 指定标样库</strong></td><td align="center" width="50%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-offset.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-offset.png" alt="Bull-20s_025 · 偏心参考图案" width="360"></a><br><strong>Bull-20s_025 · 偏心参考图案 指定标样库</strong></td></tr>
+</table>
 
 统一 viridis 色图与对数显示，按各图有效像素的1–99.5百分位独立设定色阶；图像未旋转、补绘或平滑。名称按库中文件标识，其他参考图案未强行归类。来源按用户提供的标样库和官方参考数据分别记录；展示处理图，不附原始数据。
 

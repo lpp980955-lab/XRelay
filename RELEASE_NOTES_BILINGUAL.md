@@ -63,53 +63,27 @@ Geometry and processing preview — processing panel tour
 
 Built-in reference spacings and custom d-spacing imports help compare measured and theoretical rings. The gallery below keeps the selected reference patterns. File labels are not certificates of sample identity. Viridis/logarithmic display uses independent valid-pixel percentile limits; colours do not establish equal absolute intensity across samples. The user has confirmed retaining the selected visualizations; origins distinguish the supplied reference library from official public downloads. Raw datasets are not redistributed.
 
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agb.png" alt="Reference patterns: SAXS and WAXS — agb" width="300">
+### SAXS reference patterns
 
-agb
+<table>
+<tr><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agb.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agb.png" alt="Reference patterns: SAXS and WAXS — agb" width="360"></a><br><strong>agb</strong></td><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/silver.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/silver.png" alt="Reference patterns: SAXS and WAXS — silver" width="360"></a><br><strong>silver</strong></td><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agbh-public.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agbh-public.png" alt="Reference patterns: SAXS and WAXS — agbh public" width="360"></a><br><strong>agbh public</strong></td></tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/silver.png" alt="Reference patterns: SAXS and WAXS — silver" width="300">
+### WAXS reference patterns
 
-silver
+<table>
+<tr><td align="center" width="25%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-18.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-18.png" alt="Reference patterns: SAXS and WAXS — ceo2 18" width="360"></a><br><strong>ceo2 18</strong></td><td align="center" width="25%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-20.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-20.png" alt="Reference patterns: SAXS and WAXS — ceo2 20" width="360"></a><br><strong>ceo2 20</strong></td><td align="center" width="25%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-60.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-60.png" alt="Reference patterns: SAXS and WAXS — ceo2 60" width="360"></a><br><strong>ceo2 60</strong></td><td align="center" width="25%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/lab6.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/lab6.png" alt="Reference patterns: SAXS and WAXS — lab6" width="360"></a><br><strong>lab6</strong></td></tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agbh-public.png" alt="Reference patterns: SAXS and WAXS — agbh public" width="300">
+<table>
+<tr><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/si.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/si.png" alt="Reference patterns: SAXS and WAXS — si" width="360"></a><br><strong>si</strong></td><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/y2o3.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/y2o3.png" alt="Reference patterns: SAXS and WAXS — y2o3" width="360"></a><br><strong>y2o3</strong></td><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/al2o3-public.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/al2o3-public.png" alt="Reference patterns: SAXS and WAXS — al2o3 public" width="360"></a><br><strong>al2o3 public</strong></td></tr>
+</table>
 
-agbh public
+### Other reference patterns
 
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-18.png" alt="Reference patterns: SAXS and WAXS — ceo2 18" width="300">
-
-ceo2 18
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-20.png" alt="Reference patterns: SAXS and WAXS — ceo2 20" width="300">
-
-ceo2 20
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-60.png" alt="Reference patterns: SAXS and WAXS — ceo2 60" width="300">
-
-ceo2 60
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/lab6.png" alt="Reference patterns: SAXS and WAXS — lab6" width="300">
-
-lab6
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/si.png" alt="Reference patterns: SAXS and WAXS — si" width="300">
-
-si
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/y2o3.png" alt="Reference patterns: SAXS and WAXS — y2o3" width="300">
-
-y2o3
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/al2o3-public.png" alt="Reference patterns: SAXS and WAXS — al2o3 public" width="300">
-
-al2o3 public
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-center.png" alt="Reference patterns: SAXS and WAXS — bull center" width="300">
-
-bull center
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-offset.png" alt="Reference patterns: SAXS and WAXS — bull offset" width="300">
-
-bull offset
+<table>
+<tr><td align="center" width="50%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-center.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-center.png" alt="Reference patterns: SAXS and WAXS — bull center" width="360"></a><br><strong>bull center</strong></td><td align="center" width="50%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-offset.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-offset.png" alt="Reference patterns: SAXS and WAXS — bull offset" width="360"></a><br><strong>bull offset</strong></td></tr>
+</table>
 
 ## Background and MASK in the same workflow
 
@@ -338,69 +312,25 @@ Al₂O₃、CeO₂ 分别使用各自配套的几何参数。拖动一个窗格�
 
 ### SAXS 标样
 
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agb.png" alt="AgB · 库中标样" width="300">
-
-**AgB · 库中标样** 
-指定标样库
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/silver.png" alt="Silver Behelate · 多级圆环" width="300">
-
-**Silver Behelate · 多级圆环** 
-指定标样库
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agbh-public.png" alt="AgBh · 官方公开标样" width="300">
-
-**AgBh · 官方公开标样** 
-pyFAI 官方公开数据
+<table>
+<tr><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agb.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agb.png" alt="AgB · 库中标样" width="360"></a><br><strong>AgB · 库中标样 指定标样库</strong></td><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/silver.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/silver.png" alt="Silver Behelate · 多级圆环" width="360"></a><br><strong>Silver Behelate · 多级圆环 指定标样库</strong></td><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agbh-public.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/agbh-public.png" alt="AgBh · 官方公开标样" width="360"></a><br><strong>AgBh · 官方公开标样 pyFAI 官方公开数据</strong></td></tr>
+</table>
 
 ### WAXS 标样
 
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-18.png" alt="CeO₂ · 偏心多环" width="300">
+<table>
+<tr><td align="center" width="25%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-18.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-18.png" alt="CeO₂ · 偏心多环" width="360"></a><br><strong>CeO₂ · 偏心多环 指定标样库</strong></td><td align="center" width="25%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-20.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-20.png" alt="CeO₂ · 居中圆环" width="360"></a><br><strong>CeO₂ · 居中圆环 指定标样库</strong></td><td align="center" width="25%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-60.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-60.png" alt="CeO₂ · 长曝光图案" width="360"></a><br><strong>CeO₂ · 长曝光图案 指定标样库</strong></td><td align="center" width="25%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/lab6.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/lab6.png" alt="LaB₆ · 多级衍射环" width="360"></a><br><strong>LaB₆ · 多级衍射环 指定标样库</strong></td></tr>
+</table>
 
-**CeO₂ · 偏心多环** 
-指定标样库
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-20.png" alt="CeO₂ · 居中圆环" width="300">
-
-**CeO₂ · 居中圆环** 
-指定标样库
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/ceo2-60.png" alt="CeO₂ · 长曝光图案" width="300">
-
-**CeO₂ · 长曝光图案** 
-指定标样库
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/lab6.png" alt="LaB₆ · 多级衍射环" width="300">
-
-**LaB₆ · 多级衍射环** 
-指定标样库
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/si.png" alt="Si · 库中标样" width="300">
-
-**Si · 库中标样** 
-指定标样库
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/y2o3.png" alt="Y₂O₃ · 库中标样" width="300">
-
-**Y₂O₃ · 库中标样** 
-指定标样库
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/al2o3-public.png" alt="α-Al₂O₃ · 官方公开标样" width="300">
-
-**α-Al₂O₃ · 官方公开标样** 
-pyFAI 官方公开数据
+<table>
+<tr><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/si.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/si.png" alt="Si · 库中标样" width="360"></a><br><strong>Si · 库中标样 指定标样库</strong></td><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/y2o3.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/y2o3.png" alt="Y₂O₃ · 库中标样" width="360"></a><br><strong>Y₂O₃ · 库中标样 指定标样库</strong></td><td align="center" width="33%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/al2o3-public.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/al2o3-public.png" alt="α-Al₂O₃ · 官方公开标样" width="360"></a><br><strong>α-Al₂O₃ · 官方公开标样 pyFAI 官方公开数据</strong></td></tr>
+</table>
 
 ### 其他参考图案（物质身份待核）
 
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-center.png" alt="bull-20s_002 · 参考图案" width="300">
-
-**bull-20s_002 · 参考图案** 
-指定标样库
-
-<img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-offset.png" alt="Bull-20s_025 · 偏心参考图案" width="300">
-
-**Bull-20s_025 · 偏心参考图案** 
-指定标样库
+<table>
+<tr><td align="center" width="50%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-center.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-center.png" alt="bull-20s_002 · 参考图案" width="360"></a><br><strong>bull-20s_002 · 参考图案 指定标样库</strong></td><td align="center" width="50%"><a href="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-offset.png"><img src="https://raw.githubusercontent.com/lpp980955-lab/XRelay/main/assets/gallery/bull-offset.png" alt="Bull-20s_025 · 偏心参考图案" width="360"></a><br><strong>Bull-20s_025 · 偏心参考图案 指定标样库</strong></td></tr>
+</table>
 
 统一 viridis 色图与对数显示，按各图有效像素的1–99.5百分位独立设定色阶；图像未旋转、补绘或平滑。名称按库中文件标识，其他参考图案未强行归类。来源按用户提供的标样库和官方参考数据分别记录；展示处理图，不附原始数据。
 
