@@ -9,13 +9,13 @@
       "file": "XRelay-1.0.2-Windows-x64.zip",
       "bytes": 261274279,
       "sha256": "97fe8c111b33104f23d4ecdebff7ff54d40b1274aaa4378bd62e45058a250276",
-      "download_url": "https://github.com/lpp980955-lab/XRelay/releases/download/untagged-2615078783a84a11bc92/XRelay-1.0.2-Windows-x64.zip"
+      "download_url": "https://github.com/lpp980955-lab/XRelay/releases/download/v1.0.2/XRelay-1.0.2-Windows-x64.zip"
     },
     {
       "file": "XRelay-1.0.2-corresponding-source.zip",
       "bytes": 106259158,
       "sha256": "6c7efafd09e1d1bb33fdd5eca4aaca02a45b7fa56fe6d3efc8aa607b429ae071",
-      "download_url": "https://github.com/lpp980955-lab/XRelay/releases/download/untagged-2615078783a84a11bc92/XRelay-1.0.2-corresponding-source.zip"
+      "download_url": "https://github.com/lpp980955-lab/XRelay/releases/download/v1.0.2/XRelay-1.0.2-corresponding-source.zip"
     }
   ],
   "automatic_updates": false,
