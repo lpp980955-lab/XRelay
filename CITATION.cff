@@ -12,5 +12,6 @@
   ],
   "abstract": "Local visual SAXS/WAXS processing, multi-sample integration, recipe batches and figure export.",
   "url": "https://github.com/lpp980955-lab/XRelay/releases/tag/v1.0.2",
-  "repository-code": "https://github.com/lpp980955-lab/XRelay"
+  "repository-code": "https://github.com/lpp980955-lab/XRelay",
+  "date-released": "2026-11-26"
 }
